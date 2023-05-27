@@ -3,4 +3,6 @@ function conversion (fahrenheit){
 }
 console.log(conversion(50));
 console.log(conversion(75));
+console.log(conversion(10));
+
 
