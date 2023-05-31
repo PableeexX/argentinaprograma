@@ -1,5 +1,0 @@
-function conversion2 (celsius){
-    return (celsius-32)/ (1/8)
-}
-console.log (conversion2(32));
-
